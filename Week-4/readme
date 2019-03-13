@@ -1,0 +1,7 @@
+This is Regression problem of Automoile data set:
+points covered:
+linear regression with one variable
+linear regression with multiple variables
+Regularization parameters to improve accurasy
+Ridge regression 
+Lasso regression
