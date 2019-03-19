@@ -10,10 +10,10 @@ from nltk.sentiment.vader import SentimentIntensityAnalyzer
 
 
 # step 3 - My Twitter API Authentication Variables
-consumer_key = 'Kugyq3pimt5qJSYxKUcgAVz2U'
-consumer_secret = 'rPbynzelqGbt1v96v1JNJxYvY8oPBY5KRXFholde7HO5HN94Y0'
-access_token = '321565644-P0tRK4WKujvewQm5A6qDAPp7jXcszXkpJaeaKVsO'
-access_token_secret = 'xOqg8fs43ggl2d5KxnIOoDT2bnV3W5OsyC4RpSjAdgbul'
+consumer_key = '***** Your Key ******'
+consumer_secret = '***** Your Key ******'
+access_token = '-***** Your Key ******'
+access_token_secret = '***** Your Key ******'
 
 # step 4 - Authenticate with twitter
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
